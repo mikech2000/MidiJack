@@ -1,6 +1,7 @@
 MIDI Jack
 =========
 
+new line
 MIDI Jack is a MIDI input plugin for Unity.
 
 ![sample](http://keijiro.github.io/MidiJack/sample.gif)
